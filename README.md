@@ -1,8 +1,8 @@
 Using the appDirectory in nextjs 13. Trying the layout implementations with a simple web page with a blog.
 
-The app has two layout. One in the app directory and the other in the blog directory. Layout in the app directory renders the Navbar and Footer in every page of the app. However, Layout in the blog directory renders a title for every page which shows the individual blog posts.
+The app has two layouts. One in the app directory and the other in the blog directory. Layout in the app directory renders the Navbar and Footer in every page of the app. However, Layout in the blog directory renders a title for every page which shows the individual blog posts.
 
-Inside the page in the page in the blog directory, I am rendering two posts at a time and therefore I have next and previous buttons help go back and forth while the title of the page, thanks to the layout implementations.
+Inside the page in the blog directory, I am rendering two posts at a time and therefore I have next and previous buttons to help go back and forth while always keeping the title of the blog page, thanks to the layout in the blog directory.
 
 This app mimics the openai website [OpenAi](http://openai.com/).
 
