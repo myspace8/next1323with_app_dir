@@ -1,0 +1,39 @@
+{
+ "posts": [
+   {
+      "id": 1,
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "date": "Mar 1, 2023",
+      "image": "https://openaicom.imgix.net/44fefabe-41f8-4dbf-9218-b1e1c44dc319/introducing-chatgpt-and-whisper-apis.jpg?fm=auto&q=80&auto=compress,format&fit=min&rect=,,,&w=3840&h=3840",
+      "content": "Have you ever wondered how computers work? How do they know what to do when you click on an icon or type something into the search bar? The answer is coding, which is the process of creating instructions that computers can understand and follow."
+    },
+    {
+      "id": 2,
+      "title": "Planning for AGI and beyond",
+      "date": "Feb 24, 2023",
+      "image": "https://openaicom.imgix.net/e632747f-9587-47a4-a591-ad9317aaf066/planning-for-agi-and-beyond.jpg?fm=auto&q=80&auto=compress,format&fit=min&rect=0,0,1024,1024&w=3840&h=3840",
+      "content": "Have you ever wondered how computers work? How do they know what to do when you click on an icon or type something into the search bar? The answer is coding, which is the process of creating instructions that computers can understand and follow."
+    },
+    {
+      "id": 3,
+      "title": "New AI classifier for introducing AI-written text",
+      "date": "Jan 31, 2023",
+      "image": "https://openaicom.imgix.net/2cf26826-679b-408a-ad87-d3108359ff51/new-ai-classifier-for-indicating-ai-written-text.jpg?fm=auto&q=80&auto=compress,format&fit=min&rect=0,0,2048,2048&w=3840&h=3840",
+      "content": "Have you ever wondered how computers work? How do they know what to do when you click on an icon or type something into the search bar? The answer is coding, which is the process of creating instructions that computers can understand and follow."
+    },
+    {
+      "id": 4,
+      "title": "The power of continuous learning",
+      "date": "Dec 23, 2022",
+      "image": "https://openaicom.imgix.net/e3357d5a-b177-4b3a-8d59-8fdcdad32e9a/stangel-2022-0421.jpg?fm=auto&q=80&auto=compress,format&fit=min&rect=456,0,2882,2880&w=3840&h=3837",
+      "content": "Have you ever wondered how computers work? How do they know what to do when you click on an icon or type something into the search bar? The answer is coding, which is the process of creating instructions that computers can understand and follow."
+    },
+    {
+      "id": 5,
+      "title": "Our approach to alignment research",
+      "date": "Aug 24, 2022",
+      "image": "https://openaicom.imgix.net/74b55508-ca20-4414-8fda-b45379d6b3f8/our-approach-to-alignment-research.png?fm=auto&q=80&auto=compress,format&fit=min&rect=,,,&w=2560&h=2560",
+      "content": "Have you ever wondered how computers work? How do they know what to do when you click on an icon or type something into the search bar? The answer is coding, which is the process of creating instructions that computers can understand and follow. ..."
+    }
+ ] 
+}
